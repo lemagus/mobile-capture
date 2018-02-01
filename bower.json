@@ -1,0 +1,15 @@
+{
+  "name": "image-capture",
+  "description": "Image Capture App",
+  "main": "",
+  "authors": [
+    "Lemagus"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}

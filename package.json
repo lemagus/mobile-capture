@@ -1,0 +1,21 @@
+{
+    "name": "image-capture",
+    "version": "0.1.0",
+    "description": "Image Capture App",
+    "author": "Lemagus",
+    "private": true,
+    "devDependencies": {
+        "autoprefixer": "^7.2.4",
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "browser-sync": "^2.23.5",
+        "cssnano": "^3.10.0",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^7.0.1",
+        "gulp-concat": "^2.6.1",
+        "gulp-connect-php": "^1.0.1",
+        "gulp-postcss": "^7.0.1",
+        "gulp-sass": "^3.1.0",
+        "gulp-sourcemaps": "^2.6.3"
+    }
+}
