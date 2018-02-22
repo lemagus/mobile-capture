@@ -1,0 +1,16 @@
+CACHE MANIFEST
+ 
+index.html
+dist/images/camera.png
+bower_components/font-awesome/css/font-awesome.min.css
+dist/css/main.css
+bower_components/jquery/dist/jquery.min.js
+dist/js/scripts.js
+bower_components/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+bower_components/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+bower_components/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+bower_components/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+bower_components/font-awesome/fonts/fontawesome-webfont.woff2v=4.7.0
+ 
+NETWORK:
+http://anniewarenghien.student.artsaucarre.be/capture/datas.php
